@@ -41,7 +41,7 @@ This Android code editor now includes comprehensive syntax highlighting for Java
 - **Comments**: Single-line (//) and multi-line (/* */)
 - **Strings**: Double quotes (") and character literals (')
 
-###C++
+### C++
 - **Keywords**: All C keywords plus class, namespace, template, public, private, protected, virtual, new, delete, try, catch, throw, etc.
 - **Types**: int, float, double, bool, string, vector, map, unordered_map, etc.
 - **Modifiers** : const, static, mutable, inline, virtual, explicit, etc.
