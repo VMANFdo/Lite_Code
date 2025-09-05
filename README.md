@@ -101,7 +101,7 @@ Sample code files are included in the `assets` folder:
 - `sample.kt` - Kotlin example with modern language features
 - `sample.py` - Python example with comprehensive language features
 - sample.c – Demonstrates C syntax: functions, structs, loops
-sample.cpp – Demonstrates C++ syntax: classes, templates, exception handling
+- sample.cpp – Demonstrates C++ syntax: classes, templates, exception handling
 
 ## Notes
 - Syntax highlighting is applied in real-time as you type
